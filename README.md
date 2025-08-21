@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Blockchain development and Web3 solutions**  
+- 🔭 I’m currently working on **Blockchain development  Web3 solutions & Microservices architecture**  
 - 🌱 I’m currently learning **Blockchain Core API development & Microservices architecture**  
 - 💬 Ask me about **Blockchain, React.js, Node.js, JavaScript, Go, and Microservices**  
 - 📫 How to reach me: **[walliprasad24k@gmail.com](mailto:walliprasad24k@gmail.com)**  
